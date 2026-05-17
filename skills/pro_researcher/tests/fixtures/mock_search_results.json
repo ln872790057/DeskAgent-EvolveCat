@@ -1,0 +1,10 @@
+[
+  {"title": "Model Context Protocol Specification", "url": "https://spec.modelcontextprotocol.io", "content": "Official MCP specification document covering protocol architecture, message types, and transport layers."},
+  {"title": "Anthropic MCP GitHub Repository", "url": "https://github.com/modelcontextprotocol/mcp", "content": "Official GitHub repository for MCP. Contains specification, SDK implementations, and examples."},
+  {"title": "MCP: The Next Standard for Agent Tool Calling", "url": "https://techblog.example.com/mcp-standard", "content": "Technical analysis of MCP adoption trends and comparison with existing tool-calling approaches."},
+  {"title": "Company X Announces MCP Integration Partnership", "url": "https://prnewswire.com/pr/mcp-partnership", "content": "Company X隆重发布与MCP的战略合作，赋能行业AI发展，引领生态共赢。"},
+  {"title": "MCP vs LangChain Tools: A Developer Perspective", "url": "https://dev.to/article/mcp-vs-langchain", "content": "Developer comparison of MCP and LangChain tools, with practical examples and benchmarks."},
+  {"title": "Why MCP Will Revolutionize AI Agents", "url": "https://medium.com/blog/mcp-revolution", "content": "Opinion piece arguing MCP will become the dominant standard for AI agent tool integration."},
+  {"title": "Industry Report: Agent Tool Calling Market 2026", "url": "https://research.example.com/agent-tools-2026", "content": "Industry analysis of agent tool calling market trends, MCP adoption rates, and competitive landscape."},
+  {"title": "BREAKING: MCP Just Changed Everything", "url": "https://clickbait.example.com/mcp-changed-everything", "content": "Shocking revelations about MCP. You won't believe what happened next."}
+]

@@ -1,0 +1,41 @@
+{
+  "chat": {
+    "provider": "deepseek",
+    "model": "deepseek-chat",
+    "api_key": "YOUR_DEEPSEEK_API_KEY",
+    "base_url": "https://api.deepseek.com/v1"
+  },
+  "vision": {
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "api_key": "YOUR_GEMINI_API_KEY"
+  },
+  "perception": {
+    "screen_capture_interval": 300,
+    "clipboard_poll_interval": 2,
+    "window_check_interval": 30,
+    "proactive_chat_min_interval": 900
+  },
+  "voice": {
+    "enabled": false,
+    "voice": "zh-CN-YunxiNeural"
+  },
+  "sound": {
+    "enabled": true,
+    "volume": 0.5
+  },
+  "proxy": {
+    "enabled": false,
+    "http": "http://127.0.0.1:7897",
+    "https": "http://127.0.0.1:7897"
+  },
+  "personality": {
+    "name": "deskagent",
+    "sass_level": 3
+  },
+  "display": {
+    "monitor": 0,
+    "theme": "dark"
+  },
+  "api_port": -1
+}
