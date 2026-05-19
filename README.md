@@ -1,4 +1,5 @@
 # DeskAgent-EvolveCat
+![Uploading image.png…]()
 
 一个通用桌面 Agent 产品验证项目，以高频调研任务作为首个验证场景，探索 Agent 在本地桌面环境中的任务规划、工具调用、记忆 / 上下文、后台执行、状态反馈、质量评估与结果沉淀。
 
