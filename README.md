@@ -1,8 +1,6 @@
 # DeskAgent
 
-DeskAgent 是一个通用桌面 Agent 产品验证项目，面向团队内部高频调研需求设计，一期以调研任务作为首个验证和打磨场景。
-
-项目基于 Python + PySide6 构建本地桌面 Agent，重点验证 Agent 在真实桌面工作流中的任务规划、工具调用、记忆沉淀、后台执行、状态反馈、质量评估与结果归档能力。
+基于 Python + PySide6 构建本地桌面 Agent，系统分为四层架构：桌面交互层、Agent Runtime 核心层、工具 / Skill 层、记忆层。
 
 ## 演示
 
