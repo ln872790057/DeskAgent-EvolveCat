@@ -10,12 +10,6 @@ DeskAgent 是一个通用桌面 Agent 产品验证项目，面向团队内部高
 
 [![DeskAgent Demo](docs/assets/deskagent-task-panel.png)](https://icn6dvk8k1of.feishu.cn/file/N1tMbgqYPoKVuSxTu8dc9F0dnKD)
 
-### 截图
-
-![DeskAgent 聊天窗口](docs/assets/deskagent-chat.png)
-
-![DeskAgent 后台任务与阶段状态](docs/assets/deskagent-task-panel.png)
-
 ## 项目定位
 
 DeskAgent 是一个通用桌面 Agent 原型，调研只是首个验证场景，不是产品边界。
